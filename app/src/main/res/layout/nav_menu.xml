@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_main"
+        android:title="Main Activity"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/nav_second"
+        android:title="Second Activity"
+        android:icon="@drawable/ic_activity" />
+    <item
+        android:id="@+id/nav_easter_egg"
+        android:title="Easter Egg"
+        android:icon="@drawable/ic_egg" />
+</menu>
